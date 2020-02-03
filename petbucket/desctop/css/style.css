@@ -1,0 +1,279 @@
+body,
+html{
+ margin:0;
+ padding:0;
+}
+, ::after, *::before {
+    box-sizing: border-box;
+}
+
+.pb_close_btn{
+	position: relative;
+	display: block;
+	width: 25px;
+	height: 25px;
+	background-color: transparent;
+	margin: 4px 2px 0 auto;
+	cursor: pointer;
+}
+.pb_close_btn:before{
+	position: absolute;
+	display: block;
+	content: '';
+	width: 18px;
+	height: 2px;
+	top: 50%;
+	left: 0;
+	background-color: #b3b3b3;
+	transform: rotate(-45deg);
+}
+.pb_close_btn:after{
+	position: absolute;
+	display: block;
+	content: '';
+	width: 18px;
+	height: 2px;
+	top: 50%;
+	left: 0;
+	background-color: #b3b3b3;
+	transform: rotate(45deg);
+}
+.pb_popup {
+	max-width: 632px;
+	border-radius: 4px;
+	background-color: #ffffff;
+	left: 0;
+	right: 0;
+	top: calc(50% - 282px);
+	margin: auto;
+	font-family: Helvetica;
+	z-index: 2;
+	overflow: auto;
+	max-height: 100%;
+	flex: 0 0 auto;
+	z-index: 99999;
+}
+.pb_popup_content{
+	display: flex;
+	padding: 0 58px 0 63px;
+}
+.pb_popup_title{
+	color: #515151;
+	font-size: 26px;
+	font-weight: 700;
+	text-align: center;
+	max-width: 440px;
+	margin: 4px auto 34px;
+}
+.pb_photo{
+	flex: 0 0 42%;
+	max-width: 42%;
+}
+.pb_main_img img{
+	max-width: 100%;
+	border: 2px solid #c5c5c5;
+}
+.pb_main_img{
+	max-width: 189px;
+}
+.pb_thumbnails{
+	display: flex;
+	justify-content: space-between;
+	max-width: 90%;
+	margin-top: 15px;
+}
+.pb_description{
+	flex: 0 0 58%;
+	max-width: 58%;
+}
+.pb_txt{
+	color: #666666;
+	font-size: 14px;
+	font-weight: 400;
+	margin: 0;
+	line-height: 1.7;
+}
+.pb_price{
+	color: #be3249;
+	font-size: 20px;
+	font-weight: 700;
+}
+.pb_price_section{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 0px 0px 20px;
+}
+.pb_price_stars{
+	display: flex;
+	flex-direction: column;
+	min-height: 48px;
+	justify-content: space-between;
+	flex: 0 0 50%;
+	max-width: 50%;
+}
+.pb_flea_mite{
+	flex: 0 0 50%;
+	max-width: 50%;
+	display: flex;
+	justify-content: space-between;
+}
+.pb_advantages{
+	list-style: none;
+	padding: 0;
+	margin: 0 0 25px;
+}
+.pb_star{
+	display: flex;
+}
+.pb_advantages li{
+	display: flex;
+	align-items: center;
+	color: #5b5b5b;
+	font-size: 15px;
+	font-weight: 700;
+	line-height: 2.2;
+}
+.pb_tick{
+	position: relative;
+	display: block;
+	width: 15px;
+	height: 15px;
+	margin-right: 5px;
+}
+.pb_tick:before{
+	display: block;
+	position: absolute;
+	content: '';
+	background: #515151;
+	height: 7px;
+	width: 2px;
+	bottom: 3px;
+	left: 3px;
+	margin: auto;
+	transform: rotate(-45deg);
+}
+.pb_tick:after{
+	display: block;
+	position: absolute;
+	content: '';
+	background: #515151;
+	height: 10px;
+	width: 2px;
+	top: 1px;
+	right: 4px;
+	transform: rotate(45deg);
+}
+.pb_btn a{
+	font-size: 16px;
+	font-weight: 400;
+	display: flex;
+	text-decoration: none;
+	text-align: center;
+	margin: 0;
+	padding: 10px 0;
+}
+.pb_btn img{
+	margin-right: 15px;
+	max-width: 100%;
+	max-height: 100%;
+}
+.pb_title_btn{
+	font-size: 22px;
+	font-weight: 700;
+}
+.pb_no_btn{
+	flex: 0 0 37.5%;
+	max-width: 37.5%;
+}
+.pb_no_btn a{
+	color: #666666;
+	box-shadow: inset 0 1px 0 rgba(0, 0, 1, 0.16);
+	border-radius: 4px;
+	background-image: linear-gradient(to top, #c5c5c5 0%, #dadada 97%, #e3e3e3 100%);
+	flex-direction: column;
+}
+.pb_yes_btn{
+    flex: 0 0 58%;
+    max-width: 58%;
+}
+.pb_yes_btn a{
+	color: #fff;
+	box-shadow: 0 -1px 0 #d2d2d2, inset 0 1px 0 rgba(0, 0, 1, 0.4);
+	border-radius: 4px;
+	background-image: linear-gradient(to top, #2848c7 0%, #4880c8 97%, #68a5e0 100%);
+	justify-content: center;
+	align-items: center;
+}
+.pb_footer{
+	display: flex;
+	justify-content: space-between;
+	padding: 29px 58px 50px 63px;
+
+}
+.pb_body{
+	overflow: hidden;
+	height: 100%;
+}
+
+.pb_overlay{
+	background: rgba(0, 0, 0, 0.26);
+	bottom: 0;
+	left: 0;
+	right: 0;
+	top: 0;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	z-index: 99998;
+}
+.pb_popup {
+	max-width: 632px;
+	max-height: 100%;
+	border-radius: 4px;
+	background-color: #ffffff;
+	left: 0;
+	right: 0;
+	top: calc(50% - 282px);
+	margin: auto;
+	font-family: Helvetica;
+	z-index: 2;
+	overflow: hidden;
+	flex: 0 0 auto;
+	z-index: 99999;
+}
+a[data-thumb-link]{
+	cursor: url('https://www.petbucket.com/js/magiczoomplus/graphics/zoomin.cur'),pointer;
+}
+.thumb-imagebig-wrap .thumb-imagebig img{
+	max-height: 100%;
+	max-width: 100%;
+}
+.thumb-imagebig-wrap .thumb-imagebig{
+	max-height: 100%;
+	max-width: 500px;
+}
+.thumb-imagebig-wrap{
+    position: fixed;
+    z-index: 999999999;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.5);
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}

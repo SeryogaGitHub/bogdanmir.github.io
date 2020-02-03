@@ -1,0 +1,45 @@
+.form-top-links {
+	max-width: 500px;
+	display: flex;
+	border: 1px solid #c7ced1;
+	background-color: #f4f6fc;
+    box-sizing: border-box;
+}
+.form-top-links .link-tab:nth-child(1).active {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASoAAAAtCAMAAAAultYRAAAAS1BMVEUAAADxtArxtwzurAbxswrytArwtAnxtQvytQvyswr/swDxswnxtArxtArxtArxswrxtAnvswzwtAr////xtAr42YTxthL757H989d/EKm5AAAAE3RSTlMA+yMO8OO/kGBQBdjMsKCAcEAzlchuGwAAAN9JREFUaN7tm0kSgjAUBYGIEZwV0fufVLKjmKqzYNd9hK688Eleik5WaYoxqtqgDqqixKmqjyzQD2bK11TVW+Z8u4FLqypAn1w9VAX4JVeHSlU0gldV4Qg2qqIRrIOqaASjqmgEy0pVdFkdVYV39pOq8HAVVEUjeFMVjuBTVTSC51ZVNIJ3VfHhSlV4uFIVH65UhXd2Vbmq3KsgfgEhzlUYp/UM/AdkeLKA8bwqA09BIZ6tY7yxgXgPiPF2OQM7CwibMBj7VRnY2kPs0AW1YUwbxvbWIdGKv68hEvu9sfkDIGHYjNFpQN8AAAAASUVORK5CYII=');
+    margin-right: -10px;
+}
+.form-top-links .link-tab:nth-child(2).active {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARwAAAAtCAMAAABLeyRuAAAASFBMVEUAAADxtArxtAnytAnxtArxtAnytArxtQrxtArttgntrQr/qgDxswfxtArxtArxtArxtAr/vwD////xtAr42YTxthL757H989fmp/iUAAAAEnRSTlMA99c36ryWdFgcDgMi/rCffQR3/71dAAAA4klEQVRo3u2bSw7CMAwF3RYopeWX8Ln/TWkQC0B5Dwmpu5lN9iPHdWw3DhkUMTQZBBF9BilnbMt5gS+ecqLbz+c1wQcvObHJM7cENTm7VQmde4KKnNhmLpaUE2sulpYzNISOlBM9oaPljC05WcqJjpws5FDsGDkUO0YOxY6RQ7HzU85EsaPlxInQ0XLOLaEj5URH6Gg5cSw9wQRVORNyiBxyDl+rN6hzLFTIBt5WDl7lBvo5BjqBFnrIBqYPBuZWFiaeBmblDrYsDOznGNjsWhx2Ap0ctkkN7CGzwf43/PtgeAAEUnkIa4CtvgAAAABJRU5ErkJggg==');
+    margin-left: -8px;
+}
+.form-top-links .link-tab:nth-child(1).valid:after {
+	position: absolute;
+    left: 28px;
+    top: 17px;
+    width: 16px;
+    height: 16px;
+	content: '';
+	background-image: url('data:image/svg+xml,<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 426.667 426.667" style="enable-background:new 0 0 426.667 426.667;" xml:space="preserve"><path style="fill:%236AC259;" d="M213.333,0C95.518,0,0,95.514,0,213.333s95.518,213.333,213.333,213.333c117.828,0,213.333-95.514,213.333-213.333S331.157,0,213.333,0z M174.199,322.918l-93.935-93.931l31.309-31.309l62.626,62.622l140.894-140.898l31.309,31.309L174.199,322.918z"/><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>')
+}
+.link-tab {
+	margin: -1px;
+	color: #333333;
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 20px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 15px 30px 15px 50px;
+    flex: 0 0 calc(50% + 10px);
+    min-width: calc(50% + 10px);
+    box-sizing: border-box;
+    position: relative;
+}
+.link-tab:hover {
+	color: inherit;
+	text-decoration: none;
+}
+.x-order-form-row__label {
+	margin-top: 30px;
+}

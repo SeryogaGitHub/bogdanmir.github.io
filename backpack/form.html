@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Form</title>
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans|Roboto+Mono:400" rel="stylesheet">
+</head>
+<style> 
+body {
+	font-family: 'Noto Sans', sans-serif;
+}
+.btn {
+	border-color: #7CB342;
+	background-color: #7CB342;
+	margin-bottom: 20px;
+	border-radius: 0;
+	color: #fff;
+	padding: 10px 35px;
+	height: 42px;
+	font-size: 16px;
+	border: none !important;
+} 
+.btn:hover {
+	background-color: #7CB342;
+	color: #0056b3;
+	text-decoration: underline;
+	border-color: #7CB342;
+}
+.form_submit * {
+	box-sizing: border-box
+}
+.form_submit {
+	width: 320px;
+	height: 540px;
+	margin: auto;
+	text-align: center;
+}
+.form_submit label,
+.form_submit span{
+	display: block;
+	width: 100%;
+	text-align: left;
+	padding: 0;
+	font-size: 12px;
+}
+.form_submit i{
+	color: red;
+}
+
+.form_submit label {
+	margin-bottom: 25px;
+}
+.form_submit input{
+	height: 38px;
+}
+.form_submit input,
+.form_submit textarea{
+	display: block;
+	width: 100%;
+	border: 1px solid #afafaf;
+	font-size: 14px;
+	padding: 10px 15px;
+	outline: none !important;
+}
+.form_submit input:focus,
+.form_submit textarea:focus{
+	border-color: #5f5e5e;
+}
+.form_submit textarea{
+	min-height: 100px;
+	width: 100%;
+}
+.form_title {
+	text-align: center;
+	padding-top: 20px;
+	font-size: 22px;
+	margin-bottom: 20px;
+}
+@media (max-width: 500px) {
+	.form_submit {
+		width: 100%;
+	}
+}
+</style>
+<body>
+<form class="form_submit" action="">
+	<h2 class="form_title">Оставте заявку</h2>
+	<label>
+		<span> Ваше имя<i>*</i></span>
+		<input type="name" placeholder="Имя" name="username" required>
+	</label>
+	<label>
+		<span>Ваш номер телефона<i>*</i></span>
+		<input type="number" name="phone" placeholder="Телефон" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+	</label>
+	<label>
+		<span>Ваша почта</span>
+		<input type="email" name="email" placeholder="Email" required>
+	</label>
+	<label for="">
+		<span>Коментарий к заявке (необязательно)</span>
+		<textarea placeholder="Коментарий" name="massege"></textarea>
+	</label>
+	<button class="btn">Отправить</button>
+</form>
+<script src="//code.jquery.com/jquery.js"></script>
+<script>
+$('body').on('submit', '.form_submit', function(event) {
+	var serialize = $(this).serialize();
+	$.ajax({ 
+		url: 'https://rsdev.in/mail/send2.php', 
+		type: 'POST',
+		dataType: 'json',
+		data: serialize, 
+	})
+	.always(function(data) {
+		$('.form_submit label').remove();
+		$('.form_submit button').remove();
+		$('.form_title').html('Ваше сообщение успешно отправлено');
+		$('.form_title').addClass('feedback');
+		$('.form_submit').addClass('feedback');
+	});
+	event.preventDefault();
+});
+console.log('screen ' +screen.height);
+console.log('window ' +$(window).height());
+console.log('document ' +$(document).height());
+</script>
+</body>
+</html>

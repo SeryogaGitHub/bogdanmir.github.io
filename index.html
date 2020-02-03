@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<link rel="stylesheet" href="css/style.css">
+	<style>
+		* {
+		    -webkit-print-color-adjust: exact;
+		    print-color-adjust: exact;
+		  -webkit-user-select: none;  /* Chrome all / Safari all */
+		  -moz-user-select: none;     /* Firefox all */
+		  -ms-user-select: none;      /* IE 10+ */
+		  user-select: none;          /* Likely future */   
+		  page-break-after: always;
+		}
+
+		@page {
+		    size: A4;
+		    margin: 20px;
+		}
+		input{
+			position: absolute;
+			top: 0;
+			bottom: 0;
+			left: 0;
+			right: 0;
+			opacity: 0;
+		}
+		body{
+			display: block;
+		}
+		.box{
+			border-radius: 150px;
+			overflow: hidden;
+			position: relative;
+		    background-image: url('img/select.png');
+		    background-size: 100% auto;
+			width: 120px;
+			height: 120px;
+			/*background: #000;*/
+			float:left;
+			display:inline;
+			margin: 5px;
+		}
+		span{
+			-webkit-background-size: 100% auto;
+			background-size: 100% auto;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+		.custom-menu {
+		    display: none;
+		    z-index: 1000;
+		    position: absolute;
+		    overflow: hidden;
+		    border: 1px solid #CCC;
+		    white-space: nowrap;
+		    font-family: sans-serif;
+		    background: #FFF;
+		    color: #333;
+		    border-radius: 5px;
+		}
+
+		.custom-menu div {
+		    padding: 8px 12px;
+		    cursor: pointer;
+		}
+
+		.custom-menu div:hover {
+		    background-color: #DEF;
+		}
+		.sirez-bottom-center-after{
+			width: 20px;
+			height: 20px;
+			position: absolute;
+			bottom: -10px;
+			left: -10px;
+			left: auto;
+			right: -5px;
+			background: #50b3bc;
+		}
+		.sirez-bottom-center{
+			position: absolute;
+			bottom: 0;
+			left: 0;
+			right: 0;
+		}
+		.sirez-top-center{
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+		}
+		.sirez{
+			position: fixed;
+			background: rgba(80,179,188,.5);
+		}
+	</style>
+</head>
+<body>
+	<div class='custom-menu'>
+	  <div><a href="#" data-action="changesize">Задать розмер</a></div>
+	  <div><a href="#" data-action="changeimage">Изменить картинку</a></div>
+	  <div><a href="#" data-action="third">Third thing</a></div>
+	</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<div class="box">&nbsp;</div>
+	<script src="js/all.js"></script>
+</body>
+</html>

@@ -1,0 +1,2406 @@
+<div class="applications-content">
+                <div class="applications-search">
+                    <input type="text" data-search-action="https://setapp.com/ajax/search" id="search" class="field -search" placeholder="Search">
+                </div>
+                <div class="applications-selector -active" id="selector">
+                    <button type="button" class="button -menu -small -wide" data-modal-trigger="modal-collections">
+                        Categories
+                    </button>
+                </div>
+                <div id="applications" class="applications-list" style="display: block;">
+                                            <div id="collection-1" class="applications-collection">
+                            <div class="title applications-category">Top Apps</div>
+                            <div class="applications-grid">
+                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/cleanmymac-x" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/78/1898/icon-1554994106-5caf53ba310db.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="CleanMyMac X">
+        <div class="applications-grid-name">CleanMyMac X</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Free up disk space, protect and speed up Mac
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/istat-menus" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/144/1615/icon-1544611500-5c10e6acc2f70.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="iStat Menus">
+        <div class="applications-grid-name">iStat Menus</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Monitor your Mac's health and system
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/bartender" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/153/1458/icon-1539089041-5bbca29116828.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Bartender">
+        <div class="applications-grid-name">Bartender</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Take full control of your menu bar icons
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/betterzip" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/245/1845/icon-1552900136-5c8f6028d6d50.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="BetterZip">
+        <div class="applications-grid-name">BetterZip</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Quickly archive files and folders
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/flume" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/237/1902/icon-1555091517-5cb0d03dedef4.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Flume">
+        <div class="applications-grid-name">Flume</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Upload files directly to Instagram
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/downie" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/222/1893/icon-1554799731-5cac5c739243e.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Downie">
+        <div class="applications-grid-name">Downie</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Download media from the web
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/archiver" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/194/1436/icon-1538575545-5bb4ccb9cf058.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Archiver">
+        <div class="applications-grid-name">Archiver</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Easily archive files in any format
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/ulysses" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/67/1853/icon-1553252797-5c94c1bdce2a2.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Ulysses">
+        <div class="applications-grid-name">Ulysses</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Write your first novel
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/boom-3d" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/291/1815/icon-1551954435-5c80f20348964.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Boom 3D">
+        <div class="applications-grid-name">Boom 3D</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Boost and enhance your Mac's audio output
+            </div>
+        </div>
+    </a>
+</div>                                                            </div>
+                        </div>
+                                            <div id="collection-2" class="applications-collection">
+                            <div class="title applications-category">Maintenance</div>
+                            <div class="applications-grid">
+                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/cleanmymac-x" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/78/1898/icon-1554994106-5caf53ba310db.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="CleanMyMac X">
+        <div class="applications-grid-name">CleanMyMac X</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Free up disk space, protect and speed up Mac
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/gemini" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/79/1776/icon-1551792530-5c7e79922a6b5.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Gemini">
+        <div class="applications-grid-name">Gemini</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Remove duplicate files from your Mac
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/wifi-explorer" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/74/1833/icon-1552510233-5c896d19f195b.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="WiFi Explorer">
+        <div class="applications-grid-name">WiFi Explorer</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Monitor your network environment
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/istat-menus" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/144/1615/icon-1544611500-5c10e6acc2f70.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="iStat Menus">
+        <div class="applications-grid-name">iStat Menus</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Monitor your Mac's health and system
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/get-backup-pro" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/210/1730/icon-1549282014-5c582adec2f39.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Get Backup Pro">
+        <div class="applications-grid-name">Get Backup Pro</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Keep your Mac backed up and protected
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/disk-drill" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/82/1462/icon-1540313278-5bcf50beb1891.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Disk Drill">
+        <div class="applications-grid-name">Disk Drill</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Recover data and protect your files
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/chronosync-express" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/217/1751/icon-1549914469-5c61d165b8a94.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="ChronoSync Express">
+        <div class="applications-grid-name">ChronoSync Express</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Keep files backed up and synchronized
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/netspot" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/223/1478/icon-1539790549-5bc756d52290f.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="NetSpot">
+        <div class="applications-grid-name">NetSpot</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Run wireless site surveys on Mac
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/spotless" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/294/1354/icon-1536851987-5b9a8013d6e75.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Spotless">
+        <div class="applications-grid-name">Spotless</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Organize your files the smartest way possible
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/declutter" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/262/1456/icon-1539081432-5bbc84d8137b4.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Declutter">
+        <div class="applications-grid-name">Declutter</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Keep your desktop clean and organized
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/endurance" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/301/1842/icon-1552806706-5c8df3329aa2e.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Endurance">
+        <div class="applications-grid-name">Endurance</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Extend your Mac's battery life without effort
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/anytrans" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/328/1761/icon-1550240530-5c66cb1258c09.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="AnyTrans for iOS">
+        <div class="applications-grid-name">AnyTrans for iOS</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Manage and back up your iOS devices from Mac
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/anytrans-for-android" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/336/1851/icon-1553232388-5c947204ede53.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="AnyTrans for Android">
+        <div class="applications-grid-name">AnyTrans for Android</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Manage and back up your Android from Mac
+            </div>
+        </div>
+    </a>
+</div>                                                            </div>
+                        </div>
+                                            <div id="collection-3" class="applications-collection">
+                            <div class="title applications-category">Lifestyle</div>
+                            <div class="applications-grid">
+                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/wallpaper-wizard" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/269/1122/icon-1527085008-5b0577d088503.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Wallpaper Wizard">
+        <div class="applications-grid-name">Wallpaper Wizard</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Beautify your Mac with HD desktop pictures
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/elmedia-player" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/178/1856/icon-1553528486-5c98f6a632120.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Elmedia Player">
+        <div class="applications-grid-name">Elmedia Player</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Play media files of any format
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/folx" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/202/1690/icon-1547823561-5c41e9c91b205.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Folx">
+        <div class="applications-grid-name">Folx</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Download files and torrents really fast
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/photobulk" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/286/911/icon-1518092618-5a7c414a87893.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="PhotoBulk">
+        <div class="applications-grid-name">PhotoBulk</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Save time by editing bulks of photos at once
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/chronicle" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/83/1779/icon-1550690644-5c6da954c9ce0.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Chronicle">
+        <div class="applications-grid-name">Chronicle</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Easily master your finances
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/boom-3d" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/291/1815/icon-1551954435-5c80f20348964.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Boom 3D">
+        <div class="applications-grid-name">Boom 3D</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Boost and enhance your Mac's audio output
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/gifox" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/197/1216/icon-1530540846-5b3a332ea1b96.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Gifox">
+        <div class="applications-grid-name">Gifox</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Quickly make GIFs from your screen
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/moneywiz" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/215/1771/icon-1550623454-5c6ca2de3385f.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="MoneyWiz">
+        <div class="applications-grid-name">MoneyWiz</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Keep your budget in perfect order
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/swift-publisher" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/95/1721/icon-1548834453-5c515695d65b2.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Swift Publisher">
+        <div class="applications-grid-name">Swift Publisher</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Create effective printable materials of any kind
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/downie" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/222/1893/icon-1554799731-5cac5c739243e.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Downie">
+        <div class="applications-grid-name">Downie</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Download media from the web
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/home-inventory" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/224/1634/icon-1545166929-5c196051c3931.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Home Inventory">
+        <div class="applications-grid-name">Home Inventory</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Know what you have in your house
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/forecast-bar" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/234/1727/icon-1548945885-5c5309dd3b5d8.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Forecast Bar">
+        <div class="applications-grid-name">Forecast Bar</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Know exact weather anywhere
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/flume" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/237/1902/icon-1555091517-5cb0d03dedef4.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Flume">
+        <div class="applications-grid-name">Flume</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Upload files directly to Instagram
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/chatmate-for-whatsapp" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/240/1401/icon-1537949331-5bab3e93aa91a.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="ChatMate for WhatsApp">
+        <div class="applications-grid-name">ChatMate for WhatsApp</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Use WhatsApp on Mac
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/tripmode" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/244/1533/icon-1541497818-5be163da138e1.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="TripMode">
+        <div class="applications-grid-name">TripMode</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Save your mobile data when on the go
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/world-clock-pro" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/246/1365/icon-1537227362-5ba03a62bb9fd.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="World Clock Pro">
+        <div class="applications-grid-name">World Clock Pro</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Know what time it is in any city
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/news-explorer" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/249/1889/icon-1554991928-5caf4b38608bc.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="News Explorer">
+        <div class="applications-grid-name">News Explorer</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Have your newsfeed delivered to you
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/movie-explorer-pro" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/335/1716/icon-1548955814-5c5330a6880fa.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Movie Explorer Pro">
+        <div class="applications-grid-name">Movie Explorer Pro</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Organize your movie collection beautifully
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/noizio" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/130/1393/icon-1537808539-5ba9189b11087.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Noizio">
+        <div class="applications-grid-name">Noizio</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Turn on the sounds to help you concentrate
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/unibox" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/169/1479/icon-1539884247-5bc8c4d7b9f0c.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Unibox">
+        <div class="applications-grid-name">Unibox</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Have all your mail grouped by sender
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/waitinglist" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/252/1703/icon-1548766005-5c504b35d2c57.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="WaitingList">
+        <div class="applications-grid-name">WaitingList</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Create beautiful countdowns to events
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/photolemur" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/254/1604/icon-1544027536-5c07fd90f0216.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Photolemur">
+        <div class="applications-grid-name">Photolemur</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Enhance your photos with the power of AI
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/noteplan" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/280/1812/icon-1551867925-5c7fa01565642.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="NotePlan">
+        <div class="applications-grid-name">NotePlan</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Organize your life with the benefits of markdown
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/journey" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/279/1209/icon-1530244244-5b35ac94c6d32.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Journey">
+        <div class="applications-grid-name">Journey</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Keep your personal diary neatly organized
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/macgourmet-deluxe" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/282/676/icon-1509646262-59fb5fb64ad64.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="MacGourmet Deluxe">
+        <div class="applications-grid-name">MacGourmet Deluxe</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Discover and collect your favorite food recipes
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/keykey-typing-tutor" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/274/1526/icon-1541418392-5be02d98d8bcd.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="KeyKey Typing Tutor">
+        <div class="applications-grid-name">KeyKey Typing Tutor</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Learn and improve your blind typing skills
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/im+" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/296/1683/icon-1547679187-5c3fb5d39cd8e.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="IM+">
+        <div class="applications-grid-name">IM+</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Combine messaging apps into one, at last
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/touchretouch" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/298/1467/icon-1540461708-5bd1948cf1a17.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="TouchRetouch">
+        <div class="applications-grid-name">TouchRetouch</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Refine your photos with the right tools for the job
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/canary-mail" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/307/1814/icon-1551950104-5c80e11869d7a.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Canary Mail">
+        <div class="applications-grid-name">Canary Mail</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Beautify your emailing experience
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/emulsion" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/273/1204/icon-1531287477-5b4597b570e35.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Emulsion">
+        <div class="applications-grid-name">Emulsion</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Manage and adjust your photos via handy catalogs
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/cappuccino" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/277/1288/icon-1533919226-5b6dbffa29a75.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Cappuccino">
+        <div class="applications-grid-name">Cappuccino</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Read your favorite news in one cozy place
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/gluemotion" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/324/1578/icon-1542909528-5bf6ee5828c06.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="GlueMotion">
+        <div class="applications-grid-name">GlueMotion</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Create time lapse videos from separate photos
+            </div>
+        </div>
+    </a>
+</div>                                                            </div>
+                        </div>
+                                            <div id="collection-4" class="applications-collection">
+                            <div class="title applications-category">Productivity</div>
+                            <div class="applications-grid">
+                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/pagico" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/70/1820/icon-1552145390-5c83dbee37994.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Pagico">
+        <div class="applications-grid-name">Pagico</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Manage tasks and projects
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/xmind" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/177/1449/icon-1538971469-5bbad74d9efd0.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="XMind">
+        <div class="applications-grid-name">XMind</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Create impressive mind maps
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/rocket-typist" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/276/1866/icon-1553857443-5c9dfba37fa7c.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Rocket Typist">
+        <div class="applications-grid-name">Rocket Typist</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Enhance your typing by doing less of it
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/cloudmounter" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/289/1340/icon-1536923715-5b9b9843e1faa.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="CloudMounter">
+        <div class="applications-grid-name">CloudMounter</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Mount your online drives directly into Finder
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/ithoughtsx" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/187/1802/icon-1551365868-5c77f6ec5eb2a.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="iThoughtsX">
+        <div class="applications-grid-name">iThoughtsX</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Make a mind map in 5 minutes
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/timing" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/184/1895/icon-1555059124-5cb051b4ad1c7.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Timing">
+        <div class="applications-grid-name">Timing</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Track the time you spend on anything
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/taskpaper" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/213/1737/icon-1549382883-5c59b4e339c44.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="TaskPaper">
+        <div class="applications-grid-name">TaskPaper</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Remember everything you need to do
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/be-focused" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/173/1528/icon-1541439875-5be08183c7cdc.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Be Focused">
+        <div class="applications-grid-name">Be Focused</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Get any job done with a timer
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/cloud-outliner" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/174/1454/icon-1539012671-5bbb783f30a1f.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Cloud Outliner">
+        <div class="applications-grid-name">Cloud Outliner</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Outline your ideas to align your life
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/hazeover" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/212/1840/icon-1552740854-5c8cf1f62c2b5.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="HazeOver">
+        <div class="applications-grid-name">HazeOver</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Focus on the task at hand, dim the rest
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/numi" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/186/1773/icon-1550648525-5c6d04cd717b1.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Numi">
+        <div class="applications-grid-name">Numi</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Calculate anything, anywhere
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/goodtask" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/206/1867/icon-1554053137-5ca0f811b807e.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="GoodTask">
+        <div class="applications-grid-name">GoodTask</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Keep all your tasks in one place
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/paste" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/98/1795/icon-1551206975-5c758a3f964c8.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Paste">
+        <div class="applications-grid-name">Paste</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Use a smart clipboard for your work
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/lacona" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/235/1653/icon-1546652826-5c300c9a04b3b.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Lacona">
+        <div class="applications-grid-name">Lacona</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Give your Mac quick commands
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/instacal" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/285/1555/icon-1542133993-5beb18e90eadd.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="InstaCal">
+        <div class="applications-grid-name">InstaCal</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Have your calendars always at hand
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/workspaces" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/268/1507/icon-1540811133-5bd6e97d52d9c.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Workspaces">
+        <div class="applications-grid-name">Workspaces</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Organize your working environment properly
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/teacode" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/308/1506/icon-1540808366-5bd6deaec7436.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="TeaCode">
+        <div class="applications-grid-name">TeaCode</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Start writing your code the quicker way
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/world-clock-pro" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/246/1365/icon-1537227362-5ba03a62bb9fd.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="World Clock Pro">
+        <div class="applications-grid-name">World Clock Pro</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Know what time it is in any city
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/mosaic" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/247/1355/icon-1536852442-5b9a81da508f6.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Mosaic">
+        <div class="applications-grid-name">Mosaic</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Organize windows on your desktop
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/mate-translate" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/248/1901/icon-1555330795-5cb476eb4210f.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Mate Translate">
+        <div class="applications-grid-name">Mate Translate</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Translate anything on the go
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/unclutter" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/242/1661/icon-1546944299-5c347f2b2f3a1.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Unclutter">
+        <div class="applications-grid-name">Unclutter</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Keep any files on desktop with no clutter
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/dropshare" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/250/1854/icon-1553360538-5c96669ad4fe4.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Dropshare">
+        <div class="applications-grid-name">Dropshare</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Quickly share any file or folder
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/unibox" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/169/1479/icon-1539884247-5bc8c4d7b9f0c.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Unibox">
+        <div class="applications-grid-name">Unibox</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Have all your mail grouped by sender
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/forklift" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/253/1873/icon-1554283925-5ca47d95837e1.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="ForkLift">
+        <div class="applications-grid-name">ForkLift</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Manage your files with dual pane convenience
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/2do" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/68/1837/icon-1552567875-5c8a4e435468f.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="2Do">
+        <div class="applications-grid-name">2Do</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Plan all your activities in a smarter way
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/pdf-search" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/272/1806/icon-1551528186-5c7a70fa22035.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="PDF Search">
+        <div class="applications-grid-name">PDF Search</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Search within PDFs with maximum relevance
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/lungo" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/270/1811/icon-1551794465-5c7e81217a763.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Lungo">
+        <div class="applications-grid-name">Lungo</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Prevent your Mac from going to sleep
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/focus" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/266/1891/icon-1554752108-5caba26c316c8.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Focus">
+        <div class="applications-grid-name">Focus</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Block distracting websites
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/switchem" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/275/1295/icon-1534282015-5b73491fa5652.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Switchem">
+        <div class="applications-grid-name">Switchem</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Create and switch your workspaces with ease
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/noteplan" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/280/1812/icon-1551867925-5c7fa01565642.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="NotePlan">
+        <div class="applications-grid-name">NotePlan</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Organize your life with the benefits of markdown
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/textsoap" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/284/1685/icon-1547742888-5c40aea871655.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="TextSoap">
+        <div class="applications-grid-name">TextSoap</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Edit your texts with the ease of automation
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/inboard" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/287/1734/icon-1549356775-5c594ee75b0ee.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Inboard">
+        <div class="applications-grid-name">Inboard</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Organize your visuals into a convenient catalogue
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/secrets" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/288/1749/icon-1549901711-5c619f8fbeb49.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Secrets">
+        <div class="applications-grid-name">Secrets</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Store your passwords and sensitive data securely
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/im+" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/296/1683/icon-1547679187-5c3fb5d39cd8e.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="IM+">
+        <div class="applications-grid-name">IM+</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Combine messaging apps into one, at last
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/bettertouchtool" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/295/1755/icon-1550001893-5c6326e537a6d.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="BetterTouchTool">
+        <div class="applications-grid-name">BetterTouchTool</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Take full control of your Mac's input devices
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/prizmo" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/160/1694/icon-1548060840-5c4588a8d1592.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Prizmo">
+        <div class="applications-grid-name">Prizmo</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Apply optical character recognition to any images
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/busycal" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/304/1640/icon-1545694805-5c216e553b708.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="BusyCal">
+        <div class="applications-grid-name">BusyCal</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Take full control of all your schedule
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/canary-mail" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/307/1814/icon-1551950104-5c80e11869d7a.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Canary Mail">
+        <div class="applications-grid-name">Canary Mail</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Beautify your emailing experience
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/ubar" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/306/1605/icon-1544107787-5c09370b553ac.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="uBar">
+        <div class="applications-grid-name">uBar</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Replace your Dock with a more versatile tool
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/dcommander" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/311/1790/icon-1551186332-5c75399c03060.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="DCommander">
+        <div class="applications-grid-name">DCommander</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Go dual-pane with your file management
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/dropzone" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/155/1385/icon-1537788771-5ba8cb6310788.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Dropzone">
+        <div class="applications-grid-name">Dropzone</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Improve your drag and drop experience
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/pdfpen" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/322/1885/icon-1554589618-5ca927b20b5b7.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="PDFpen">
+        <div class="applications-grid-name">PDFpen</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Edit and create PDFs using powerful tools
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/taskheat" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/326/1821/icon-1552344615-5c86e627785eb.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Taskheat">
+        <div class="applications-grid-name">Taskheat</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Plan a detailed path to any of your goals
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/mindnode" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/320/1789/icon-1551101337-5c73ed99b22a0.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="MindNode">
+        <div class="applications-grid-name">MindNode</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Visualize your ideas with mind maps
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/cleanshot" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/321/1904/icon-1555339297-5cb49821d9165.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="CleanShot">
+        <div class="applications-grid-name">CleanShot</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Take screenshots better than you did before
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/imeetingx" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/337/1801/icon-1551346641-5c77abd19fb1a.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="iMeetingX">
+        <div class="applications-grid-name">iMeetingX</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Plan and conduct your meetings effectively
+            </div>
+        </div>
+    </a>
+</div>                                                            </div>
+                        </div>
+                                            <div id="collection-5" class="applications-collection">
+                            <div class="title applications-category">Task Management</div>
+                            <div class="applications-grid">
+                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/pagico" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/70/1820/icon-1552145390-5c83dbee37994.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Pagico">
+        <div class="applications-grid-name">Pagico</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Manage tasks and projects
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/timing" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/184/1895/icon-1555059124-5cb051b4ad1c7.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Timing">
+        <div class="applications-grid-name">Timing</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Track the time you spend on anything
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/taskpaper" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/213/1737/icon-1549382883-5c59b4e339c44.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="TaskPaper">
+        <div class="applications-grid-name">TaskPaper</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Remember everything you need to do
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/be-focused" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/173/1528/icon-1541439875-5be08183c7cdc.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Be Focused">
+        <div class="applications-grid-name">Be Focused</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Get any job done with a timer
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/cloud-outliner" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/174/1454/icon-1539012671-5bbb783f30a1f.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Cloud Outliner">
+        <div class="applications-grid-name">Cloud Outliner</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Outline your ideas to align your life
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/aeon-timeline" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/196/1717/icon-1548746580-5c4fff54dc54b.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Aeon Timeline">
+        <div class="applications-grid-name">Aeon Timeline</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Create timelines for your projects
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/goodtask" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/206/1867/icon-1554053137-5ca0f811b807e.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="GoodTask">
+        <div class="applications-grid-name">GoodTask</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Keep all your tasks in one place
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/instacal" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/285/1555/icon-1542133993-5beb18e90eadd.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="InstaCal">
+        <div class="applications-grid-name">InstaCal</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Have your calendars always at hand
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/merlin-project-express" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/241/1828/icon-1554911606-5cae11768a75f.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Merlin Project Express">
+        <div class="applications-grid-name">Merlin Project Express</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Manage all your projects like a pro
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/2do" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/68/1837/icon-1552567875-5c8a4e435468f.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="2Do">
+        <div class="applications-grid-name">2Do</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Plan all your activities in a smarter way
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/busycal" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/304/1640/icon-1545694805-5c216e553b708.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="BusyCal">
+        <div class="applications-grid-name">BusyCal</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Take full control of all your schedule
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/taskheat" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/326/1821/icon-1552344615-5c86e627785eb.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Taskheat">
+        <div class="applications-grid-name">Taskheat</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Plan a detailed path to any of your goals
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/imeetingx" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/337/1801/icon-1551346641-5c77abd19fb1a.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="iMeetingX">
+        <div class="applications-grid-name">iMeetingX</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Plan and conduct your meetings effectively
+            </div>
+        </div>
+    </a>
+</div>                                                            </div>
+                        </div>
+                                            <div id="collection-6" class="applications-collection">
+                            <div class="title applications-category">Developer Tools</div>
+                            <div class="applications-grid">
+                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/marked" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/80/1794/icon-1551214423-5c75a7572f0b7.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Marked">
+        <div class="applications-grid-name">Marked</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Write in Markdown with live preview
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/yummy-ftp-pro" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/189/1116/icon-1526914200-5b02dc986579b.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Yummy FTP Pro">
+        <div class="applications-grid-name">Yummy FTP Pro</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Transfer files fast via FTP
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/yummy-ftp-watcher" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/271/1115/icon-1526914130-5b02dc524bfac.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Yummy FTP Watcher">
+        <div class="applications-grid-name">Yummy FTP Watcher</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Sync FTP folders with your Mac automatically
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/base" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/135/359/icon-1490522115-58d79003ef470.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Base">
+        <div class="applications-grid-name">Base</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Browse and edit your SQLite 3 files
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/simon" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/201/1455/icon-1539023614-5bbba2fe24072.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Simon">
+        <div class="applications-grid-name">Simon</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Monitor your servers at all times
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/rapidweaver" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/64/1857/icon-1553606938-5c9a291a49d28.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="RapidWeaver">
+        <div class="applications-grid-name">RapidWeaver</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Create websites without coding
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/hype" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/192/1863/icon-1553653656-5c9adf98cd9c5.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Hype">
+        <div class="applications-grid-name">Hype</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Create animated web content
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/coderunner" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/122/1415/icon-1538052443-5bacd15bdaba7.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="CodeRunner">
+        <div class="applications-grid-name">CodeRunner</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Edit and run code in any language
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/sqlpro-studio" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/230/1864/icon-1554827153-5cacc7913445d.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="SQLPro Studio">
+        <div class="applications-grid-name">SQLPro Studio</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Manage Postgres and MySQL databases
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/sqlpro-for-sqlite" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/333/1769/icon-1550585479-5c6c0e87ea4f6.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="SQLPro for SQLite">
+        <div class="applications-grid-name">SQLPro for SQLite</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Take full control of your SQLite databases
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/netspot" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/223/1478/icon-1539790549-5bc756d52290f.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="NetSpot">
+        <div class="applications-grid-name">NetSpot</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Run wireless site surveys on Mac
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/expressions" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/243/1509/icon-1540812274-5bd6edf24279b.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Expressions">
+        <div class="applications-grid-name">Expressions</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Have fun with regular expressions
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/teacode" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/308/1506/icon-1540808366-5bd6deaec7436.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="TeaCode">
+        <div class="applications-grid-name">TeaCode</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Start writing your code the quicker way
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/paw" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/94/1538/icon-1542743384-5bf46558650bb.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Paw">
+        <div class="applications-grid-name">Paw</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Send HTTP requests, describe RESTful APIs
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/iconjar" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/264/1705/icon-1548628017-5c4e303117c32.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="IconJar">
+        <div class="applications-grid-name">IconJar</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Store all your icons in one place, just a click away
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/flawless" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/257/1881/icon-1554454378-5ca7176a721b6.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Flawless">
+        <div class="applications-grid-name">Flawless</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Implement pixel perfect iOS interfaces
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/tableplus" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/297/1880/icon-1554386109-5ca60cbd02d3d.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="TablePlus">
+        <div class="applications-grid-name">TablePlus</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Manage multiple databases the easy way
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/folio" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/312/1249/icon-1533035546-5b60441a61235.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Folio">
+        <div class="applications-grid-name">Folio</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Take your designs under version control
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/espresso" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/316/1388/icon-1537787618-5ba8c6e2dd4df.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Espresso">
+        <div class="applications-grid-name">Espresso</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Design, write, and code your own website
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/core-shell" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/339/1892/icon-1554793053-5cac425d175fa.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Core Shell">
+        <div class="applications-grid-name">Core Shell</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Make use of a full-featured SSH terminal
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/unite" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/340/1907/icon-1555336356-5cb48ca4ba097.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Unite">
+        <div class="applications-grid-name">Unite</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Create separate apps out of favorite websites
+            </div>
+        </div>
+    </a>
+</div>                                                            </div>
+                        </div>
+                                            <div id="collection-7" class="applications-collection">
+                            <div class="title applications-category">Education &amp; Research</div>
+                            <div class="applications-grid">
+                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/xmind" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/177/1449/icon-1538971469-5bbad74d9efd0.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="XMind">
+        <div class="applications-grid-name">XMind</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Create impressive mind maps
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/findings" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/146/1375/icon-1537472094-5ba3f65e51457.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Findings">
+        <div class="applications-grid-name">Findings</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Keep all your academic notes in order
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/ithoughtsx" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/187/1802/icon-1551365868-5c77f6ec5eb2a.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="iThoughtsX">
+        <div class="applications-grid-name">iThoughtsX</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Make a mind map in 5 minutes
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/manuscripts" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/145/1830/icon-1552388069-5c878fe58911a.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Manuscripts">
+        <div class="applications-grid-name">Manuscripts</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Write a book and do it easily
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/numi" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/186/1773/icon-1550648525-5c6d04cd717b1.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Numi">
+        <div class="applications-grid-name">Numi</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Calculate anything, anywhere
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/aeon-timeline" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/196/1717/icon-1548746580-5c4fff54dc54b.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Aeon Timeline">
+        <div class="applications-grid-name">Aeon Timeline</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Create timelines for your projects
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/studies" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/231/1810/icon-1551705812-5c7d26d4d5a5f.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Studies">
+        <div class="applications-grid-name">Studies</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Finish your academic paper in no time
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/mate-translate" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/248/1901/icon-1555330795-5cb476eb4210f.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Mate Translate">
+        <div class="applications-grid-name">Mate Translate</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Translate anything on the go
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/pdf-search" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/272/1806/icon-1551528186-5c7a70fa22035.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="PDF Search">
+        <div class="applications-grid-name">PDF Search</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Search within PDFs with maximum relevance
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/wokabulary" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/267/1884/icon-1554658651-5caa355b2f18d.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Wokabulary">
+        <div class="applications-grid-name">Wokabulary</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Learn and organize foreign words efficiently
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/periodic-table-chemistry" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/283/753/icon-1510809748-5a0d20944aa71.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Periodic Table Chemistry">
+        <div class="applications-grid-name">Periodic Table Chemistry</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Study the characteristics of chemical elements
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/keykey-typing-tutor" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/274/1526/icon-1541418392-5be02d98d8bcd.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="KeyKey Typing Tutor">
+        <div class="applications-grid-name">KeyKey Typing Tutor</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Learn and improve your blind typing skills
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/marginnote" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/323/1899/icon-1555027991-5cafd817b0f8f.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="MarginNote">
+        <div class="applications-grid-name">MarginNote</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Study better with powerful annotation
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/pdfpen" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/322/1885/icon-1554589618-5ca927b20b5b7.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="PDFpen">
+        <div class="applications-grid-name">PDFpen</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Edit and create PDFs using powerful tools
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/mathkey" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/327/1553/icon-1542042300-5be9b2bca6b33.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="MathKey">
+        <div class="applications-grid-name">MathKey</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Convert written formulas into proper formats
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/prowritingaid" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/281/1729/icon-1549026069-5c544315171d1.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="ProWritingAid">
+        <div class="applications-grid-name">ProWritingAid</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Write with perfect style, grammar and readability
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/mindnode" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/320/1789/icon-1551101337-5c73ed99b22a0.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="MindNode">
+        <div class="applications-grid-name">MindNode</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Visualize your ideas with mind maps
+            </div>
+        </div>
+    </a>
+</div>                                                            </div>
+                        </div>
+                                            <div id="collection-8" class="applications-collection">
+                            <div class="title applications-category">Mac Hacks</div>
+                            <div class="applications-grid">
+                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/archiver" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/194/1436/icon-1538575545-5bb4ccb9cf058.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Archiver">
+        <div class="applications-grid-name">Archiver</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Easily archive files in any format
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/renamer" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/136/1708/icon-1548449516-5c4b76ecb4e18.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Renamer">
+        <div class="applications-grid-name">Renamer</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Quickly rename files by the batch
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/pdf-squeezer" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/188/1887/icon-1554711233-5cab02c1f2b10.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="PDF Squeezer">
+        <div class="applications-grid-name">PDF Squeezer</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Make large PDFs lighter
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/remote-mouse" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/193/581/icon-1503406632-599c2a283f5e1.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Remote Mouse">
+        <div class="applications-grid-name">Remote Mouse</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Control your Mac via iPhone or iPad
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/hazeover" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/212/1840/icon-1552740854-5c8cf1f62c2b5.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="HazeOver">
+        <div class="applications-grid-name">HazeOver</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Focus on the task at hand, dim the rest
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/jump-desktop" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/75/1877/icon-1554305959-5ca4d3a7b8378.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Jump Desktop">
+        <div class="applications-grid-name">Jump Desktop</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Access any computer from your Mac
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/screens" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/218/1897/icon-1554948696-5caea258bbb0b.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Screens">
+        <div class="applications-grid-name">Screens</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Access any other computer from your Mac
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/paste" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/98/1795/icon-1551206975-5c758a3f964c8.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Paste">
+        <div class="applications-grid-name">Paste</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Use a smart clipboard for your work
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/permute" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/219/1905/icon-1555323861-5cb45bd5355f9.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Permute">
+        <div class="applications-grid-name">Permute</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Convert any media into any format
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/chronosync-express" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/217/1751/icon-1549914469-5c61d165b8a94.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="ChronoSync Express">
+        <div class="applications-grid-name">ChronoSync Express</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Keep files backed up and synchronized
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/iflicks" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/229/1736/icon-1549363702-5c5969f69916c.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="iFlicks">
+        <div class="applications-grid-name">iFlicks</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Add your videos to iTunes
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/shimo" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/227/927/icon-1524227696-5ad9de70e7a0e.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Shimo">
+        <div class="applications-grid-name">Shimo</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Use the most reliable VPN software
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/lacona" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/235/1653/icon-1546652826-5c300c9a04b3b.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Lacona">
+        <div class="applications-grid-name">Lacona</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Give your Mac quick commands
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/workspaces" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/268/1507/icon-1540811133-5bd6e97d52d9c.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Workspaces">
+        <div class="applications-grid-name">Workspaces</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Organize your working environment properly
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/betterzip" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/245/1845/icon-1552900136-5c8f6028d6d50.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="BetterZip">
+        <div class="applications-grid-name">BetterZip</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Quickly archive files and folders
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/tripmode" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/244/1533/icon-1541497818-5be163da138e1.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="TripMode">
+        <div class="applications-grid-name">TripMode</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Save your mobile data when on the go
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/mosaic" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/247/1355/icon-1536852442-5b9a81da508f6.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Mosaic">
+        <div class="applications-grid-name">Mosaic</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Organize windows on your desktop
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/unclutter" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/242/1661/icon-1546944299-5c347f2b2f3a1.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Unclutter">
+        <div class="applications-grid-name">Unclutter</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Keep any files on desktop with no clutter
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/declutter" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/262/1456/icon-1539081432-5bbc84d8137b4.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Declutter">
+        <div class="applications-grid-name">Declutter</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Keep your desktop clean and organized
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/forklift" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/253/1873/icon-1554283925-5ca47d95837e1.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="ForkLift">
+        <div class="applications-grid-name">ForkLift</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Manage your files with dual pane convenience
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/lungo" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/270/1811/icon-1551794465-5c7e81217a763.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Lungo">
+        <div class="applications-grid-name">Lungo</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Prevent your Mac from going to sleep
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/focus" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/266/1891/icon-1554752108-5caba26c316c8.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Focus">
+        <div class="applications-grid-name">Focus</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Block distracting websites
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/switchem" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/275/1295/icon-1534282015-5b73491fa5652.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Switchem">
+        <div class="applications-grid-name">Switchem</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Create and switch your workspaces with ease
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/secrets" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/288/1749/icon-1549901711-5c619f8fbeb49.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Secrets">
+        <div class="applications-grid-name">Secrets</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Store your passwords and sensitive data securely
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/bartender" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/153/1458/icon-1539089041-5bbca29116828.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Bartender">
+        <div class="applications-grid-name">Bartender</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Take full control of your menu bar icons
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/bettertouchtool" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/295/1755/icon-1550001893-5c6326e537a6d.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="BetterTouchTool">
+        <div class="applications-grid-name">BetterTouchTool</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Take full control of your Mac's input devices
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/ubar" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/306/1605/icon-1544107787-5c09370b553ac.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="uBar">
+        <div class="applications-grid-name">uBar</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Replace your Dock with a more versatile tool
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/endurance" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/301/1842/icon-1552806706-5c8df3329aa2e.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Endurance">
+        <div class="applications-grid-name">Endurance</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Extend your Mac's battery life without effort
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/dcommander" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/311/1790/icon-1551186332-5c75399c03060.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="DCommander">
+        <div class="applications-grid-name">DCommander</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Go dual-pane with your file management
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/dropzone" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/155/1385/icon-1537788771-5ba8cb6310788.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Dropzone">
+        <div class="applications-grid-name">Dropzone</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Improve your drag and drop experience
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/macpilot" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/305/1850/icon-1553296785-5c956d91c51f2.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="MacPilot">
+        <div class="applications-grid-name">MacPilot</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Take full control of your Mac's features
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/toothfairy" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/319/1723/icon-1548796216-5c50c138efb90.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="ToothFairy">
+        <div class="applications-grid-name">ToothFairy</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Connect your Bluetooth headphones in a click
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/cleanshot" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/321/1904/icon-1555339297-5cb49821d9165.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="CleanShot">
+        <div class="applications-grid-name">CleanShot</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Take screenshots better than you did before
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/anytrans" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/328/1761/icon-1550240530-5c66cb1258c09.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="AnyTrans for iOS">
+        <div class="applications-grid-name">AnyTrans for iOS</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Manage and back up your iOS devices from Mac
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/anytrans-for-android" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/336/1851/icon-1553232388-5c947204ede53.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="AnyTrans for Android">
+        <div class="applications-grid-name">AnyTrans for Android</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Manage and back up your Android from Mac
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/unite" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/340/1907/icon-1555336356-5cb48ca4ba097.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Unite">
+        <div class="applications-grid-name">Unite</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Create separate apps out of favorite websites
+            </div>
+        </div>
+    </a>
+</div>                                                            </div>
+                        </div>
+                                            <div id="collection-9" class="applications-collection">
+                            <div class="title applications-category">Creativity</div>
+                            <div class="applications-grid">
+                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/renamer" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/136/1708/icon-1548449516-5c4b76ecb4e18.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Renamer">
+        <div class="applications-grid-name">Renamer</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Quickly rename files by the batch
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/sip" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/232/1908/icon-1555338468-5cb494e45c64c.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Sip">
+        <div class="applications-grid-name">Sip</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Design like a pro with a perfect color picker
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/photobulk" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/286/911/icon-1518092618-5a7c414a87893.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="PhotoBulk">
+        <div class="applications-grid-name">PhotoBulk</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Save time by editing bulks of photos at once
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/image2icon" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/195/1874/icon-1554212634-5ca3671a97c3f.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Image2icon">
+        <div class="applications-grid-name">Image2icon</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Convert any image into icon
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/capto" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/175/1724/icon-1548833498-5c5152da778a6.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Capto">
+        <div class="applications-grid-name">Capto</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Make a video of your screen
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/boom-3d" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/291/1815/icon-1551954435-5c80f20348964.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Boom 3D">
+        <div class="applications-grid-name">Boom 3D</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Boost and enhance your Mac's audio output
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/squash" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/209/594/icon-1504606262-59ae783692730.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Squash">
+        <div class="applications-grid-name">Squash</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Compress files to make them lighter
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/gifox" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/197/1216/icon-1530540846-5b3a332ea1b96.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Gifox">
+        <div class="applications-grid-name">Gifox</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Quickly make GIFs from your screen
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/swift-publisher" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/95/1721/icon-1548834453-5c515695d65b2.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Swift Publisher">
+        <div class="applications-grid-name">Swift Publisher</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Create effective printable materials of any kind
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/iflicks" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/229/1736/icon-1549363702-5c5969f69916c.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="iFlicks">
+        <div class="applications-grid-name">iFlicks</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Add your videos to iTunes
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/flume" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/237/1902/icon-1555091517-5cb0d03dedef4.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Flume">
+        <div class="applications-grid-name">Flume</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Upload files directly to Instagram
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/n-track-studio" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/238/998/icon-1521630875-5ab23e9b4b1a0.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="n-Track Studio">
+        <div class="applications-grid-name">n-Track Studio</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Become a musician and mix tracks
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/tayasui-sketches" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/255/1513/icon-1540894506-5bd82f2a38cd0.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Tayasui Sketches">
+        <div class="applications-grid-name">Tayasui Sketches</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Draw with amazing realistic brushes
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/iconjar" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/264/1705/icon-1548628017-5c4e303117c32.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="IconJar">
+        <div class="applications-grid-name">IconJar</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Store all your icons in one place, just a click away
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/photolemur" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/254/1604/icon-1544027536-5c07fd90f0216.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Photolemur">
+        <div class="applications-grid-name">Photolemur</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Enhance your photos with the power of AI
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/inboard" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/287/1734/icon-1549356775-5c594ee75b0ee.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Inboard">
+        <div class="applications-grid-name">Inboard</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Organize your visuals into a convenient catalogue
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/touchretouch" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/298/1467/icon-1540461708-5bd1948cf1a17.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="TouchRetouch">
+        <div class="applications-grid-name">TouchRetouch</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Refine your photos with the right tools for the job
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/aquarelo" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/300/1846/icon-1552923693-5c8fbc2d391a3.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Aquarelo">
+        <div class="applications-grid-name">Aquarelo</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Prepare, mix and export perfect color palettes
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/camerabag-pro" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/299/1834/icon-1552554392-5c8a19987fb64.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="CameraBag Pro">
+        <div class="applications-grid-name">CameraBag Pro</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Edit your videos and apply cinematic filters to them
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/emulsion" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/273/1204/icon-1531287477-5b4597b570e35.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Emulsion">
+        <div class="applications-grid-name">Emulsion</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Manage and adjust your photos via handy catalogs
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/folio" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/312/1249/icon-1533035546-5b60441a61235.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Folio">
+        <div class="applications-grid-name">Folio</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Take your designs under version control
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/typeface" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/315/1671/icon-1547137809-5c37731102bfe.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Typeface">
+        <div class="applications-grid-name">Typeface</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Organize and manage your font collections
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/gluemotion" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/324/1578/icon-1542909528-5bf6ee5828c06.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="GlueMotion">
+        <div class="applications-grid-name">GlueMotion</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Create time lapse videos from separate photos
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/cleanshot" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/321/1904/icon-1555339297-5cb49821d9165.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="CleanShot">
+        <div class="applications-grid-name">CleanShot</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Take screenshots better than you did before
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/fotomagico-pro" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/338/1875/icon-1554227276-5ca3a04c6797a.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="FotoMagico Pro">
+        <div class="applications-grid-name">FotoMagico Pro</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Turn images and video into gorgeous slideshows
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/luminar-flex" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/342/1888/icon-1554971490-5caefb62eb614.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Luminar Flex">
+        <div class="applications-grid-name">Luminar Flex</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Enhance your photos with advanced filters and tools
+            </div>
+        </div>
+    </a>
+</div>                                                            </div>
+                        </div>
+                                            <div id="collection-10" class="applications-collection">
+                            <div class="title applications-category">Writing &amp; Blogging</div>
+                            <div class="applications-grid">
+                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/rocket-typist" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/276/1866/icon-1553857443-5c9dfba37fa7c.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Rocket Typist">
+        <div class="applications-grid-name">Rocket Typist</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Enhance your typing by doing less of it
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/capto" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/175/1724/icon-1548833498-5c5152da778a6.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Capto">
+        <div class="applications-grid-name">Capto</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Make a video of your screen
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/manuscripts" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/145/1830/icon-1552388069-5c878fe58911a.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Manuscripts">
+        <div class="applications-grid-name">Manuscripts</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Write a book and do it easily
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/blogo" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/72/817/icon-1518743091-5a862e33462b7.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Blogo">
+        <div class="applications-grid-name">Blogo</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Start your best blogging experience
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/focused" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/134/1625/icon-1544823461-5c1422a5d84bb.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Focused">
+        <div class="applications-grid-name">Focused</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Write articles and don't get distracted
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/aeon-timeline" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/196/1717/icon-1548746580-5c4fff54dc54b.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Aeon Timeline">
+        <div class="applications-grid-name">Aeon Timeline</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Create timelines for your projects
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/mate-translate" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/248/1901/icon-1555330795-5cb476eb4210f.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Mate Translate">
+        <div class="applications-grid-name">Mate Translate</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Translate anything on the go
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/pdf-search" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/272/1806/icon-1551528186-5c7a70fa22035.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="PDF Search">
+        <div class="applications-grid-name">PDF Search</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Search within PDFs with maximum relevance
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/journey" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/279/1209/icon-1530244244-5b35ac94c6d32.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Journey">
+        <div class="applications-grid-name">Journey</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Keep your personal diary neatly organized
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/textsoap" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/284/1685/icon-1547742888-5c40aea871655.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="TextSoap">
+        <div class="applications-grid-name">TextSoap</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Edit your texts with the ease of automation
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/ulysses" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/67/1853/icon-1553252797-5c94c1bdce2a2.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Ulysses">
+        <div class="applications-grid-name">Ulysses</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Write your first novel
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/prizmo" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/160/1694/icon-1548060840-5c4588a8d1592.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Prizmo">
+        <div class="applications-grid-name">Prizmo</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Apply optical character recognition to any images
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/pdfpen" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/322/1885/icon-1554589618-5ca927b20b5b7.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="PDFpen">
+        <div class="applications-grid-name">PDFpen</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Edit and create PDFs using powerful tools
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/prowritingaid" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/281/1729/icon-1549026069-5c544315171d1.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="ProWritingAid">
+        <div class="applications-grid-name">ProWritingAid</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Write with perfect style, grammar and readability
+            </div>
+        </div>
+    </a>
+</div>                                                            </div>
+                        </div>
+                                            <div id="collection-11" class="applications-collection">
+                            <div class="title applications-category">Personal Finance</div>
+                            <div class="applications-grid">
+                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/chronicle" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/83/1779/icon-1550690644-5c6da954c9ce0.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Chronicle">
+        <div class="applications-grid-name">Chronicle</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Easily master your finances
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/moneywiz" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/215/1771/icon-1550623454-5c6ca2de3385f.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="MoneyWiz">
+        <div class="applications-grid-name">MoneyWiz</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Keep your budget in perfect order
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/home-inventory" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/224/1634/icon-1545166929-5c196051c3931.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Home Inventory">
+        <div class="applications-grid-name">Home Inventory</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Know what you have in your house
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/gigeconomy" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/318/1627/icon-1544910407-5c157647a1905.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="GigEconomy">
+        <div class="applications-grid-name">GigEconomy</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Track work time, bill and invoice your clients easily
+            </div>
+        </div>
+    </a>
+</div>                                                                    <div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/moonitor" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/314/1500/icon-1540552189-5bd2f5fd382a9.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Moonitor">
+        <div class="applications-grid-name">Moonitor</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Track your cryptocurrency investments real-time
+            </div>
+        </div>
+    </a>
+</div>                                                            </div>
+                        </div>
+                                    </div>
+                <div id="applications-search" style="display: none;" class="applications-list">
+                    <div class="applications-category">Search for: <span data-search="query">folx</span></div>
+                    <div class="applications-grid" data-search="applications"><div class="applications-grid-cell">
+    <a href="https://setapp.com/apps/folx" class="applications-grid-application">
+        <img src="https://store-setapp-com.imgix.net/app/202/1690/icon-1547823561-5c41e9c91b205.png?ixlib=php-2.1.0&amp;q=75&amp;w=160" alt="Folx">
+        <div class="applications-grid-name">Folx</div>
+        <div class="applications-grid-about">
+            <div class="applications-grid-description">
+                Download files and torrents really fast
+            </div>
+        </div>
+    </a>
+</div><div class="applications-grid-cell" id="applications-suggest">
+                            <div class="applications-grid-application -search" data-modal-trigger="modal-suggest">
+                                <img src="https://cdn.setapp.com/assets/4d6a8a079e44cb6ebbbf2f56d866f6f6/static/old/icons/add.svg" alt="Suggest an App">
+                                <div class="applications-grid-name">Suggest an App</div>
+                            </div>
+                        </div></div>
+                </div>
+            </div>

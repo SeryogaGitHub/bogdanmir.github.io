@@ -1,0 +1,120 @@
+#form-bottom #enquiry .appointment-submit {
+	background: #f7851f;
+	border: 0;
+	font-weight: bold;
+	letter-spacing: 2px;
+	color: #fff;
+	width: 188px;
+	padding: 10px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	transition: all 0.5s ease;
+	width: auto;
+}
+
+#form-bottom .error-fuildenter .error_text {
+	position: absolute;
+	font-size: 10px;
+	right: 0;
+	top: -20px;
+	text-align: right;
+	padding-right: 10px !important;
+	color: #dd2e44;
+}
+
+#form-bottom .error-fuildenter {
+	position: relative;
+}
+
+input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus, input:-webkit-autofill:active {
+	transition: background-color 5000000000000000000000000000000000s ease-in-out 0s;
+}
+
+#form-bottom #enquiry input {
+	border: solid 1px transparent !important;
+}
+
+#form-bottom #enquiry .gfield {
+	margin-bottom: 20px !important;
+}
+
+#form-bottom #enquiry .success-fuildenter {
+	position: relative;
+}
+
+#form-bottom #enquiry h3 {
+	border: none !important;
+}
+
+#form-bottom #enquiry .error-fuildenter input.error {
+	background-image: url('../img/rx.png') !important;
+	background-repeat: no-repeat !important;
+	padding-right: 10px !important;
+	background-size: 21px auto !important;
+	background-position: 98% center !important;
+	border: solid 1px #dd2e44 !important;
+}
+
+#form-bottom #enquiry .success-fuildenter input {
+	background: url(../img/cm.png) !important;
+	background-repeat: no-repeat !important;
+	padding-right: 10px;
+	background-size: 21px auto !important;
+	background-position: 98% 9px !important;
+	border: solid 1px #28da62 !important;
+}
+
+#form-bottom #enquiry .ginput_container_text.error-fuildenter .error_text, #form-bottom #enquiry .ginput_container_email.error-fuildenter .error_text {
+	padding-right: 159px !important;
+}
+
+#form-bottom #enquiry .name_first {
+	margin-bottom: 20px !important;
+}
+
+#form-bottom #enquiry .success-fuildenter input:-webkit-autofill {
+	background-image: url('../img/cm.png');
+	background-repeat: no-repeat;
+	padding-right: 10px;
+	background-size: 21px auto;
+	background-position: 98% 9px;
+	border: solid 1px #28da62 !important;
+}
+
+@media(max-width:1024px) {
+	#form-bottom #enquiry .gfield.recieved-occ-mail input {
+		-webkit-box-flex: 0;
+		-webkit-flex: 0 0 auto !important;
+		-ms-flex: 0 0 auto !important;
+		flex: 0 0 auto !important;
+		max-width: auto !important;
+		width: auto !important;
+	}
+
+	#form-bottom #enquiry .gfield.recieved-occ-mail {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+	}
+
+	#form-bottom #enquiry .ginput_container_text.error-fuildenter .error_text, #form-bottom #enquiry .ginput_container_email.error-fuildenter .error_text {
+		padding-right: 129px !important;
+	}
+
+}
+
+@media(max-width:768px) {
+	#form-bottom #enquiry .ginput_container_text.error-fuildenter .error_text, #form-bottom #enquiry .ginput_container_email.error-fuildenter .error_text {
+		padding-right: 88px !important;
+	}
+
+}
+
+@media(max-width:767px) {
+	#form-bottom #enquiry .ginput_container_text.error-fuildenter .error_text, #form-bottom #enquiry .ginput_container_email.error-fuildenter .error_text {
+		padding-right: 0px !important;
+	}
+
+}

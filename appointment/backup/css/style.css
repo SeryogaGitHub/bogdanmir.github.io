@@ -1,0 +1,61 @@
+#form-bottom .error-fuildenter .error_text{
+	position: absolute;
+	font-size:10px;
+	right: 0;
+	top: -20px;
+	text-align: right;
+	padding-right: 10px!important;
+	color:#dd2e44;
+}
+#form-bottom .error-fuildenter{
+	position: relative;
+}
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  transition: background-color 5000000000000000000000000000000000s ease-in-out 0s;
+}
+#form-bottom #appointment input{
+    border:solid 1px transparent !important;
+}
+#form-bottom #appointment .gfield{
+	margin-bottom: 20px!important;
+}
+#form-bottom #appointment .success-fuildenter{
+	position: relative;
+}
+#form-bottom #appointment h3{
+	border:none !important;
+}
+#form-bottom #appointment .error-fuildenter input.error{
+	background-image: url('../img/rx.png') !important;
+	background-repeat: no-repeat !important;
+    padding-right: 10px !important;
+    background-size: 21px auto !important;
+    background-position: 98% 9px !important;
+    border:solid 1px #dd2e44 !important;
+}
+#form-bottom #appointment .success-fuildenter input{
+	background: url(../img/cm.png) !important;
+	background-repeat: no-repeat !important;
+	padding-right: 10px;
+	background-size: 21px auto !important;
+	background-position: 98% 9px !important;
+	border: solid 1px #28da62 !important;
+}
+#form-bottom #appointment .ginput_container_text.error-fuildenter .error_text,
+#form-bottom #appointment .ginput_container_email.error-fuildenter .error_text{
+     padding-right: 130px!important;
+}
+#form-bottom #appointment .name_first{
+	margin-bottom: 20px!important;
+}
+#form-bottom #appointment .success-fuildenter input:-webkit-autofill{
+	background-image: url('../img/cm.png');
+	background-repeat: no-repeat;
+    padding-right: 10px;
+    background-size: 21px auto;
+    background-position: 98% 9px;
+    border:solid 1px #28da62 !important;
+}

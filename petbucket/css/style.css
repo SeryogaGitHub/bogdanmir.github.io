@@ -1,0 +1,412 @@
+body {
+	margin-bottom: 50px;
+}
+
+.petbucket-animate {
+	-webkit-animation-duration: .5s;
+	animation-duration: .5s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+}
+
+@-webkit-keyframes petbucketfadeInRight {
+	from {
+		opacity: 0;
+		-webkit-transform: translate3d(100%, 0, 0);
+		transform: translate3d(100%, 0, 0);
+	}
+
+	to {
+		opacity: 1;
+		-webkit-transform: translate3d(0, 0, 0);
+		transform: translate3d(0, 0, 0);
+	}
+
+}
+
+@keyframes petbucketfadeInRight {
+	from {
+		opacity: 0;
+		-webkit-transform: translate3d(100%, 0, 0);
+		transform: translate3d(100%, 0, 0);
+	}
+
+	to {
+		opacity: 1;
+		-webkit-transform: translate3d(0, 0, 0);
+		transform: translate3d(0, 0, 0);
+	}
+
+}
+
+@-webkit-keyframes petbucketfadeOutLeft {
+	from {
+		opacity: 1;
+	}
+
+	to {
+		opacity: 0;
+		-webkit-transform: translate3d(-100%, 0, 0);
+		transform: translate3d(-100%, 0, 0);
+	}
+
+}
+
+@keyframes petbucketfadeOutLeft {
+	from {
+		opacity: 1;
+	}
+
+	to {
+		opacity: 0;
+		-webkit-transform: translate3d(-100%, 0, 0);
+		transform: translate3d(-100%, 0, 0);
+	}
+
+}
+
+.petbucketfadeOutLeft {
+	-webkit-animation-name: petbucketfadeOutLeft;
+	animation-name: petbucketfadeOutLeft;
+}
+
+.petbucketfadeInRight {
+	-webkit-animation-name: petbucketfadeInRight;
+	animation-name: petbucketfadeInRight;
+}
+
+.petbucket-step-1:after {
+	content: " ";
+	display: inline-block;
+	background: url('../img/arrow.png');
+	width: 13px;
+	height: 22px;
+	margin-left: 12px;
+	-webkit-background-size: 100% 100%;
+	        background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.petbucket-link:after {
+	content: " ";
+	display: inline-block;
+	background: url('../img/arrow-dark.png');
+	width: 6px;
+	height: 10px;
+	margin-left: 5px;
+	-webkit-background-size: 100% 100%;
+	        background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.petbucket-link {
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-wrap: nowrap;
+	    -ms-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	background: #ffffff;
+	font-size: 24px;
+	font-family: Arial,Helvetica,sans-serif;
+	color: rgb(68, 71, 57);
+	text-decoration: none;
+	padding: 8px 15px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.petbucket-step-3 .petbucket-step-3-title {
+	font-size: 13px;
+	font-family: Arial,Helvetica,sans-serif;
+	color: rgb(255, 255, 255);
+	font-weight: bold;
+	text-transform: uppercase;
+	-webkit-box-flex: 0;
+	-webkit-flex: 0 0 100%;
+	    -ms-flex: 0 0 100%;
+	        flex: 0 0 100%;
+	max-width: 100%;
+	margin-bottom: 15px;
+	letter-spacing: 2px;
+}
+
+.petbucket-step-1 {
+	z-index: 999999999;
+	text-decoration: none;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-wrap: nowrap;
+	    -ms-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	font-size: 14px;
+	font-family: Arial,Helvetica,sans-serif;
+	color: rgb(255, 255, 255);
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	top: auto;
+	padding: 27px 10px;
+	background: #8dad35;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+/* .scrollbox-popup,
+.listbuilder-popup {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+.scrollbox-popup:after,
+.listbuilder-popup-overlay {
+    position: fixed;
+    background: rgba(0,0,0,0.4);
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: block;
+    content: " ";
+}
+.scrollbox-popup-content,
+.listbuilder-popup-content {
+	padding: 0;
+    margin: 0 auto;
+    max-width: none;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+.scrollbox-popup-content .scrollbox-popup-scale,
+.listbuilder-popup-content .listbuilder-popup-scale {
+	position: absolute !important;
+	top: 50% !important;
+	left: 50% !important;
+	transform: translate(-50%, -50%) scale(0.581481) translateZ(0px) !important;
+	zoom: 1 !important;
+	overflow: visible !important;
+} */
+.petbucket-step-1, .petbucket-step-2 {
+	font-weight: 700;
+}
+
+.petbucket-step-3, .petbucket-step-2 {
+	z-index: 999999998;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-wrap: nowrap;
+	    -ms-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding: 27px 10px;
+	background: #8dad35;
+	font-family: Arial,Helvetica,sans-serif;
+	color: rgb(255, 255, 255);
+}
+.petbucket-steps{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-flex: 0;
+	-webkit-flex: 0 0 100%;
+	    -ms-flex: 0 0 100%;
+	        flex: 0 0 100%;
+	max-width: 100%;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.petbucket-step-3 .petbucketstep-select {
+	display: inline-block;
+	font-size: 10px;
+	font-family: Arial,Helvetica,sans-serif;
+	color: rgb(255, 255, 255);
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: center;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    max-width: 65px;
+
+}
+
+.petbucket-step-3 [data-petbucketselect]:before {
+	width: 34px;
+	height: 34px;
+	display: block;
+	content: " ";
+	background-image: url('../img/flea.png');
+	background-repeat: no-repeat;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	-webkit-background-size: 100% 100%;
+	        background-size: 100%;
+
+}
+
+.petbucket-step-3 [data-petbucketselect="tick"]:before {
+	background-image: url('../img/tick.png');
+}
+
+.petbucket-step-3 [data-petbucketselect="heartworm"]:before {
+	background-image: url('../img/heartworm.png');
+}
+
+.petbucket-step-3 [data-petbucketselect="iw"]:before {
+	background-image: url('../img/investinal-worms.png');
+}
+
+.petbucket-step-3 {
+	z-index: 999999997;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	text-align: center;
+	-webkit-box-align: stretch;
+	-webkit-align-items: stretch;
+	    -ms-flex-align: stretch;
+	        align-items: stretch;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	padding: 16px 40px 12px;
+}
+
+.petbucket-step-2 span {
+	font-size: 12px;
+	letter-spacing: 2px;
+}
+.petbucket-step-2 img {
+	max-height: 25px;
+	margin-left: auto;
+	margin-right: auto;
+}
+@media(min-width:425px) {
+	.petbucket-step-1 {
+		font-size: 13px;
+	}
+
+	.petbucket-step-1:after {
+		width: 8px;
+		height: 15px;
+	}
+
+	.petbucket-step-2 span {
+		margin-left: 16px;
+		margin-right: 16px;
+	}
+
+	.petbucket-link span {
+		margin-left: 5px;
+		margin-right: 3px;
+	}
+
+}
+
+@media (max-width:565px) {
+	.petbucket-step-3 {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	.petbucket-step-3 .petbucket-step-3-title {
+		font-size: 13px;
+	}
+
+	.petbucket-link {
+		font-size: 12px;
+		padding: 5px 8px;
+	}
+
+}
+
+@media(max-width:425px) {
+	.petbucket-step-3 [data-petbucketselect]:before {
+		width: 43px;
+		height: 43px;
+	}
+
+	.petbucket-step-1 {
+		font-size: 13px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.petbucket-step-1:after {
+		width: 8px;
+		height: 15px;
+	}
+
+	.petbucket-step-2 span {
+		margin-left: 6px;
+		margin-right: 6px;
+		font-size: 11px;
+	}
+
+	.petbucket-link span {
+		margin-left: 5px;
+		margin-right: 3px;
+	}
+}
+
+.petbucket-step-3 localizerinlinegroup {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
+}
