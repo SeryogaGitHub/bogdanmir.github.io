@@ -67,17 +67,26 @@ function readyjQueryinit(){
 	.opened .ab_show_fares_btn,
 	.soldout .ab_select_btn,
 	.fare-selected .ab_show_fares_btn,
-	.fare-selected .ab_select_btn {
+	.fare-selected .ab_select_btn,
+	.disabled .ab_show_fares_btn,
+	.disabled .ab_select_btn {
 		display: none;
 	}
 	.show_fares_arrow {
 		margin-left: 5px;
 	}
+	@media (max-width: 1350px) and (min-width:1280px) {
+		.ab_show_fares_btn,
+		.ab_select_btn {
+			padding: 12px 20px;
+			font-size: 10px;
+		}
+	}
 	@media (min-width: 1280px) {
 		.flights-product[_ngcontent-c11] .class-container[_ngcontent-c11] .class__item--info[_ngcontent-c11] {
 			padding-left: 25px;
 		}
-		.flights-product[_ngcontent-c11] .class-container[_ngcontent-c11] .class__item[_ngcontent-c11] {
+		.flights-product[_ngcontent-c11] .class-container[_ngcontent-c11] .class__item[_ngcontent-c11]:not(.fare-selected) {
 			flex-direction: row;
 			justify-content: space-between;
 		}
@@ -88,7 +97,6 @@ function readyjQueryinit(){
 		.search-results-container[_ngcontent-c6] .product__controls[_ngcontent-c6] .cabin-classes[_ngcontent-c6] .class__item.Economy[_ngcontent-c6] {
 			opacity: 0.8;
 		}
-
 	}
 	@media (max-width: 1280px) {
 		.flights-product[_ngcontent-c11] .class-container[_ngcontent-c11] {
