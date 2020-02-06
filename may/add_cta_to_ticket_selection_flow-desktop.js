@@ -54,9 +54,9 @@ function readyjQueryinit(){
 	.ab_show_fares_btn,
 	.ab_select_btn {
 		background: #006CB8;
-		padding: 14px 32px;
+		padding: 12px 25px;
 		font-weight: 400;
-		font-size: 11px;
+		font-size: 9px;
 		display: flex;
 		align-items: center;
 		text-transform: uppercase;
