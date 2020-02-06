@@ -54,9 +54,9 @@ function readyjQueryinit(){
 	.ab_show_fares_btn,
 	.ab_select_btn {
 		background: #006CB8;
-		padding: 12px 25px;
+		padding: 14px 32px;
 		font-weight: 400;
-		font-size: 9px;
+		font-size: 11px;
 		display: flex;
 		align-items: center;
 		text-transform: uppercase;
@@ -79,7 +79,14 @@ function readyjQueryinit(){
 		}
 		.flights-product[_ngcontent-c11] .class-container[_ngcontent-c11] .class__item[_ngcontent-c11] {
 			flex-direction: row;
-			justify-content: space-around;
+			justify-content: space-between;
+		}
+		.flights-product[_ngcontent-c11] .class-container[_ngcontent-c11] .class__item[_ngcontent-c11] .ab_show_fares_btn {
+			margin-right: 1.2rem;
+		}
+		.search-results-container[_ngcontent-c6] .product__controls[_ngcontent-c6] .cabin-classes[_ngcontent-c6] .class__item.Business[_ngcontent-c6],
+		.search-results-container[_ngcontent-c6] .product__controls[_ngcontent-c6] .cabin-classes[_ngcontent-c6] .class__item.Economy[_ngcontent-c6] {
+			opacity: 0.8;
 		}
 
 	}
