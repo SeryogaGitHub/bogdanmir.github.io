@@ -40,7 +40,6 @@ window.dataLayer = window.dataLayer || [];
 	});
 }
 
-if ($("body").find(".offer_wrapper").length<1) {
 
 	function AddCreditOffer(obj) {
 		this.wrapperElement  = obj.wrapperElement;
@@ -203,7 +202,6 @@ if ($("body").find(".offer_wrapper").length<1) {
 		btnInterval = setInterval(moveElement,50);
 	   }
 	});
-}
 
 
 	var styles = "<style>";
