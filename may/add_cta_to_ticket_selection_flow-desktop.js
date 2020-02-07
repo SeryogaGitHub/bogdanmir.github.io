@@ -38,7 +38,7 @@ function readyjQueryinit(){
 				    $(this).append($outhtml);
 			}
 		})
-		if (window.matchMedia('(max-width: 1280px)').matches) {
+		if (window.matchMedia('(max-width: 1279px)').matches) {
 			$( ".flights-fares[_ngcontent-c16] .fare-family__item[_ngcontent-c16] .price-container[_ngcontent-c16] .item__price[_ngcontent-c16]" ).each(function(  ) {
 				if ($(this).find('.ab_select_btn').length< 1) {
 					    $(this).append($outhtmlselect);
@@ -90,6 +90,13 @@ function readyjQueryinit(){
 			flex-direction: row;
 			justify-content: space-between;
 		}
+		.flights-product[_ngcontent-c11] .opened .class-container[_ngcontent-c11] .class__item--info[_ngcontent-c11] {
+			padding-left: 0;
+		}
+		.flights-product[_ngcontent-c11] .opened .class-container[_ngcontent-c11] .class__item[_ngcontent-c11]:not(.fare-selected) {
+			flex-direction: row;
+			justify-content: center;
+		}
 		.flights-product[_ngcontent-c11] .class-container[_ngcontent-c11] .class__item[_ngcontent-c11] .ab_show_fares_btn {
 			margin-right: 1.2rem;
 		}
@@ -98,7 +105,7 @@ function readyjQueryinit(){
 			opacity: 0.8;
 		}
 	}
-	@media (max-width: 1280px) {
+	@media (max-width: 1279px) {
 		.flights-product[_ngcontent-c11] .class-container[_ngcontent-c11] {
 			padding: 1.2rem;
 		}
