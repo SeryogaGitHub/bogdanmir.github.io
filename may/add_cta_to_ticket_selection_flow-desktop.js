@@ -64,7 +64,7 @@ function readyjQueryinit(){
 		position: relative;
 	}
 	.soldout .ab_show_fares_btn,
-	.opened .ab_show_fares_btn,
+	.class__item.opened .ab_show_fares_btn,
 	.soldout .ab_select_btn,
 	.fare-selected .ab_show_fares_btn,
 	.fare-selected .ab_select_btn,
@@ -90,10 +90,10 @@ function readyjQueryinit(){
 			flex-direction: row;
 			justify-content: space-between;
 		}
-		.flights-product[_ngcontent-c11] .opened .class-container[_ngcontent-c11] .class__item--info[_ngcontent-c11] {
-			padding-left: 0;
-		}
-		.flights-product[_ngcontent-c11] .opened .class-container[_ngcontent-c11] .class__item[_ngcontent-c11]:not(.fare-selected) {
+		// .flights-product[_ngcontent-c11] .opened .class-container[_ngcontent-c11] .class__item--info[_ngcontent-c11] {
+		// 	padding-left: 0;
+		// }
+		.flights-product[_ngcontent-c11] .class-container[_ngcontent-c11] .opened.class__item[_ngcontent-c11]:not(.fare-selected) {
 			flex-direction: row;
 			justify-content: center;
 		}
