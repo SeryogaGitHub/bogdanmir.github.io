@@ -29,7 +29,7 @@ if (!window.jQuery) {
   readyjQueryinit();
 }
 function readyjQueryinit(){
-
+if ($("body").find(".offer_wrapper").length<1) {
   window.onload = function(){
 
     window.dataLayer = window.dataLayer || [];
@@ -202,7 +202,7 @@ function readyjQueryinit(){
       btnInterval = setInterval(moveElement,50);
     }
   });
-
+}
 
   var styles = "<style>";
   styles += `
