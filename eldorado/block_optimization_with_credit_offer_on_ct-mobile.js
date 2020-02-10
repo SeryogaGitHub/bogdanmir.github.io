@@ -29,7 +29,7 @@ if (!window.jQuery) {
   readyjQueryinit();
 }
 function readyjQueryinit(){
-if ($("body").find(".offer_wrapper").length<1) {
+
   window.onload = function(){
 
     window.dataLayer = window.dataLayer || [];
@@ -144,13 +144,15 @@ if ($("body").find(".offer_wrapper").length<1) {
     creditInfoPriceClass:'price_number',
   });
   let addElement = function(){
-    if(document.querySelector('.product-additional-actions') !== null){
+    if (document.querySelector('.credit-information .button') !== null){
+      if(document.querySelector('.product-additional-actions') !== null){
 
-      newOffer.init();
-      clearInterval(newInterval);
-    }else {
-      console.log('no');
-      return
+        newOffer.init();
+        clearInterval(newInterval);
+      }else {
+        console.log('no');
+        return
+      }
     }
   };
 
@@ -164,9 +166,11 @@ if ($("body").find(".offer_wrapper").length<1) {
       clearInterval(btnInterval);
       console.log('block added');
 
-    }else {
-      console.log('block to add did not appear');
-      return false;
+    } else {
+      if (document.querySelector('.credit-information .button') !== null){
+        console.log('block to add did not appear');
+        return false;
+      }
     }
   };
   let newInterval = setInterval(addElement,50);
@@ -202,7 +206,7 @@ if ($("body").find(".offer_wrapper").length<1) {
       btnInterval = setInterval(moveElement,50);
     }
   });
-}
+
 
   var styles = "<style>";
   styles += `
