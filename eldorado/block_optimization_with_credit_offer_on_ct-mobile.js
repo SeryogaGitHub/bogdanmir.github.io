@@ -29,8 +29,8 @@ if (!window.jQuery) {
   readyjQueryinit();
 }
 function readyjQueryinit(){
-
-  window.onload = function(){
+if ($("body").find(".offer_wrapper").length<1) {
+	  window.onload = function(){
 
     window.dataLayer = window.dataLayer || [];
     dataLayer.push({
@@ -206,7 +206,7 @@ function readyjQueryinit(){
       btnInterval = setInterval(moveElement,50);
     }
   });
-
+}
 
   var styles = "<style>";
   styles += `
