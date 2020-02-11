@@ -56,14 +56,20 @@ function readyjQueryinit(){
 	})
 	var styles = "<style>";
 	styles += `
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
 	.ab_show_fares_btn,
 	.ab_select_btn {
 		background: #006CB8;
 		padding: 14px 32px;
 		font-weight: 400;
 		font-size: 11px;
+		display: -webkit-box;
+		display: -ms-flexbox;
 		display: flex;
-		align-items: center;
+		-webkit-box-align: center;
+		    -ms-flex-align: center;
+		        align-items: center;
 		text-transform: uppercase;
 		color: #FFFFFF!important;
 		position: relative;
@@ -92,15 +98,24 @@ function readyjQueryinit(){
 			padding-left: 25px;
 		}
 		.flights-product[_ngcontent-c11] .class-container[_ngcontent-c11] .class__item[_ngcontent-c11]:not(.fare-selected) {
-			flex-direction: row;
-			justify-content: space-between;
+			-webkit-box-orient: horizontal;
+			-webkit-box-direction: normal;
+			    -ms-flex-direction: row;
+			        flex-direction: row;
+			-webkit-box-pack: justify;
+			    -ms-flex-pack: justify;
+			        justify-content: space-between;
+			-ms-flex-wrap: nowrap;
+			    flex-wrap: nowrap;
 		}
-		// .flights-product[_ngcontent-c11] .opened .class-container[_ngcontent-c11] .class__item--info[_ngcontent-c11] {
-		// 	padding-left: 0;
-		// }
 		.flights-product[_ngcontent-c11] .class-container[_ngcontent-c11] .opened.class__item[_ngcontent-c11]:not(.fare-selected) {
-			flex-direction: row;
-			justify-content: center;
+			-webkit-box-orient: horizontal;
+			-webkit-box-direction: normal;
+			    -ms-flex-direction: row;
+			        flex-direction: row;
+			-webkit-box-pack: center;
+			    -ms-flex-pack: center;
+			        justify-content: center;
 		}
 		.flights-product[_ngcontent-c11] .class-container[_ngcontent-c11] .class__item[_ngcontent-c11] .ab_show_fares_btn {
 			margin-right: 1.2rem;
@@ -115,7 +130,9 @@ function readyjQueryinit(){
 			padding: 1.2rem;
 		}
 		.flights-product[_ngcontent-c11] .class-container[_ngcontent-c11] .class__item[_ngcontent-c11] {
-			align-items: flex-end;
+			-webkit-box-align: end;
+			    -ms-flex-align: end;
+			        align-items: flex-end;
 		}
 		.flights-product[_ngcontent-c11] .class-container[_ngcontent-c11] .class__item--info[_ngcontent-c11] {
 			padding-right: 0;
@@ -124,8 +141,12 @@ function readyjQueryinit(){
 			padding-bottom: 0;
 		}
 		.flights-fares[_ngcontent-c16] .fare-family__item[_ngcontent-c16] .price-container[_ngcontent-c16] .item__price[_ngcontent-c16] {
-			align-items: center;
-			justify-content: space-between;
+			-webkit-box-align: center;
+			    -ms-flex-align: center;
+			        align-items: center;
+			-webkit-box-pack: justify;
+			    -ms-flex-pack: justify;
+			        justify-content: space-between;
 		}
 	}
 	@media (max-width: 400px) {
