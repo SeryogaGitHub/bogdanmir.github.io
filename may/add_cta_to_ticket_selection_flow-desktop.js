@@ -123,7 +123,7 @@ function readyjQueryinit(){
 			justify-content: space-between;
 		}
 	}
-	@media (max-width: 360px) {
+	@media (max-width: 400px) {
 		.ab_show_fares_btn, .ab_select_btn {
 			padding: 10px 14px;
 			font-size: 8px;
