@@ -123,16 +123,17 @@ function readyjQueryinit(){
 			justify-content: space-between;
 		}
 	}
-	@media (max-width: 400px) {
-		.ab_show_fares_btn, .ab_select_btn {
-			padding: 10px 14px;
-			font-size: 8px;
-		}
-		.ab_show_fares_btn {
-			width: 130px;
-			margin-left: -30px;
-		}
-	}
+	// @media (max-width: 400px) {
+	// 	.ab_show_fares_btn,
+	// 	.ab_select_btn {
+	// 		padding: 10px 14px;
+	// 		font-size: 8px;
+	// 	}
+	// 	.ab_show_fares_btn {
+	// 		width: 130px;
+	// 		margin-left: -30px;
+	// 	}
+	// }
 	`;
 	styles    += "</style>";
 	jQuery('body').append(styles);
