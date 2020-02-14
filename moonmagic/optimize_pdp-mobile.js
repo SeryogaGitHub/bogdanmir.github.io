@@ -205,10 +205,8 @@ function readyjQueryinit() {
     }
     @media(max-width: 420px) {
 		#design-materials-gemstones .klaviyo-bis-trigger.button.button--add-to-cart.button--klaviyo-bis {
-			overflow: visible;
 			line-height: 1.2;
-			align-items: center;
-			justify-content: center;
+			padding-top: 4%;
 		}
     }
     @media(max-width: 360px) {
