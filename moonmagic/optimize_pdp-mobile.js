@@ -203,6 +203,23 @@ function readyjQueryinit() {
       display: inline-block;
       max-width: 93px
     }
+    @media(max-width: 420px) {
+		#design-materials-gemstones .klaviyo-bis-trigger.button.button--add-to-cart.button--klaviyo-bis {
+			overflow: visible;
+			line-height: 1.2;
+			align-items: center;
+			justify-content: center;
+		}
+    }
+    @media(max-width: 360px) {
+    	#design-materials-gemstones .open-cart-btn, #design-materials-gemstones .add-design {
+    		font-size: 12px;
+    	}
+    	#design-materials-gemstones .open-cart-btn .image, #design-materials-gemstones .add-design .image {
+    		width: 40px;
+    		margin-right: 5px;
+    	}
+    }
     `;
   styles += "</style>";
   $('body').append(styles);
@@ -230,7 +247,6 @@ function readyjQueryinit() {
     // console.log(cartCount.trim().length);
 
     let htmlInner = `
-      <h2 class="title">Order different materials and gemstones in this design:</h2>
       
       <div class="wrap-container top">
         <div class="materials-container element-container">
